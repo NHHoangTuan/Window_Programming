@@ -1,0 +1,27 @@
+﻿<Window x:Class="InspiringQuotes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InspiringQuotes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <Image
+            Name="quotesImg"
+            Source="C:\Users\Hoang Tuan\Desktop\Images\quotes01.jpg" Width="600" Height="434">
+        </Image>
+        
+        <Button Content="Change" Canvas.Left="620" Canvas.Top="284" Width="80" Height="40"
+                FontSize="15" Name ="btnChange" Click="btnChange_Click"/>
+        
+        <TextBlock Name ="quotesTextBlock" Canvas.Left="531" Canvas.Top="10" Text="A problem is a chance for you to do your best"
+                   TextWrapping="WrapWithOverflow" FontSize="30" Height="186" Width="259"
+                   TextAlignment="Center"/>
+        <Label>
+            
+        </Label>
+
+    </Canvas>
+
+</Window>

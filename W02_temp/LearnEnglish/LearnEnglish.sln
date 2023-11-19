@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishVocabulary", "EnglishVocabulary\EnglishVocabulary.csproj", "{4FB1ED75-2866-4FB2-A7C5-22F228AE0D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB1ED75-2866-4FB2-A7C5-22F228AE0D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB1ED75-2866-4FB2-A7C5-22F228AE0D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB1ED75-2866-4FB2-A7C5-22F228AE0D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB1ED75-2866-4FB2-A7C5-22F228AE0D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCEC8553-5346-4146-965B-E4E2E4788EB4}
+	EndGlobalSection
+EndGlobal

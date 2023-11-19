@@ -1,0 +1,102 @@
+﻿<Window x:Class="LayoutPractice.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutPractice"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"
+                    Height="400" >
+
+            <TextBox Text="Some text" Width="100" TextAlignment="Center"
+             VerticalContentAlignment="Center" FontSize="25"
+             TextWrapping="WrapWithOverflow" Margin="7"
+             BorderThickness="3" BorderBrush="Red" Foreground="Green"/>
+
+            <TextBox Text="Some text" Width="100" TextAlignment="Center"
+ VerticalContentAlignment="Center" FontSize="25"
+ TextWrapping="WrapWithOverflow" Margin="7"
+             BorderThickness="3" BorderBrush="Red" Foreground="Green"/>
+
+            <TextBox Text="Some text" Width="100" TextAlignment="Center"
+ VerticalContentAlignment="Center" FontSize="25"
+ TextWrapping="WrapWithOverflow" Margin="7"
+             BorderThickness="3" BorderBrush="Red" Foreground="Green"/>
+
+            
+            <Border BorderThickness="3" Margin="7" BorderBrush="Red"
+                    Width="100">
+
+                <StackPanel>
+
+                    <TextBox Text="Some text"  TextAlignment="Center"
+VerticalContentAlignment="Center" FontSize="25"
+TextWrapping="WrapWithOverflow" Margin="7"
+            BorderThickness="3" BorderBrush="Red" Foreground="Green"/>
+
+                    <TextBox Text="Some text"  TextAlignment="Center"
+VerticalContentAlignment="Center" FontSize="25"
+TextWrapping="WrapWithOverflow" Margin="7"
+            BorderThickness="3" BorderBrush="Red" Foreground="Green"/>
+
+                    <TextBox Text="Some text"  TextAlignment="Center"
+VerticalContentAlignment="Center" FontSize="25"
+TextWrapping="WrapWithOverflow" Margin="7"
+            BorderThickness="3" BorderBrush="Red" Foreground="Green"/>
+
+                </StackPanel>
+
+            </Border>
+
+            <Border Width="300" 
+ Margin="7" BorderBrush="Red"
+             BorderThickness="3">
+
+                <DockPanel >
+
+                    <Border BorderBrush="Red" BorderThickness="3"
+                            Margin="7" Height="110"  DockPanel.Dock="Top">
+                        <TextBlock Text="Some text" FontSize="25" Foreground="Green"
+                                   TextAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+
+                    <Border BorderBrush="Red" BorderThickness="3"
+        Margin="7"  DockPanel.Dock="Left" Width="90">
+                        <TextBlock Text="Some text" FontSize="25" Foreground="Green"
+                                   TextAlignment="Center" VerticalAlignment="Center"
+                                   TextWrapping="WrapWithOverflow"/>
+                    </Border>
+
+                    <Border BorderBrush="Red" BorderThickness="3"
+        Margin="7"  DockPanel.Dock="Bottom" Height="110">
+                        <TextBlock Text="Some text" FontSize="25" Foreground="Green"
+                                   TextAlignment="Center" VerticalAlignment="Center"
+                                   TextWrapping="WrapWithOverflow"/>
+                    </Border>
+
+                    <Border BorderBrush="Red" BorderThickness="3"
+        Margin="7"  DockPanel.Dock="Right" Width="90">
+                        <TextBlock Text="Some text" FontSize="25" Foreground="Green"
+                                   TextAlignment="Center" VerticalAlignment="Center"
+                                   TextWrapping="WrapWithOverflow"/>
+                    </Border>
+
+                    <Border BorderBrush="Red" BorderThickness="3"
+        Margin="7" >
+                        <TextBlock Text="Some text" FontSize="25" Foreground="Green"
+                                   TextAlignment="Center" VerticalAlignment="Center"
+                                   TextWrapping="WrapWithOverflow"/>
+                    </Border>
+
+                </DockPanel>
+                
+            </Border>
+
+
+        </StackPanel>
+
+    </Grid>
+</Window>

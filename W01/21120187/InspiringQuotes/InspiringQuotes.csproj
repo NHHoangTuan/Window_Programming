@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\quotes01.jpg" />
+    <None Remove="Images\quotes02.jpg" />
+    <None Remove="Images\quotes03.jpg" />
+    <None Remove="Images\quotes04.jpg" />
+    <None Remove="Images\quotes05.jpg" />
+    <None Remove="Images\quotes06.jpg" />
+    <None Remove="Images\quotes07.jpg" />
+    <None Remove="Images\quotes08.jpg" />
+    <None Remove="Images\quotes09.jpg" />
+    <None Remove="Images\quotes10.jpg" />
+    <None Remove="Images\quotes11.jpg" />
+    <None Remove="Images\quotes12.jpg" />
+    <None Remove="Images\quotes13.jpg" />
+    <None Remove="Images\quotes14.jpg" />
+    <None Remove="Images\quotes15.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\quotes01.jpg" />
+    <Resource Include="Images\quotes02.jpg" />
+    <Resource Include="Images\quotes03.jpg" />
+    <Resource Include="Images\quotes04.jpg" />
+    <Resource Include="Images\quotes05.jpg" />
+    <Resource Include="Images\quotes06.jpg" />
+    <Resource Include="Images\quotes07.jpg" />
+    <Resource Include="Images\quotes08.jpg" />
+    <Resource Include="Images\quotes09.jpg" />
+    <Resource Include="Images\quotes10.jpg" />
+    <Resource Include="Images\quotes11.jpg" />
+    <Resource Include="Images\quotes12.jpg" />
+    <Resource Include="Images\quotes13.jpg" />
+    <Resource Include="Images\quotes14.jpg" />
+    <Resource Include="Images\quotes15.jpg" />
+  </ItemGroup>
+
+</Project>

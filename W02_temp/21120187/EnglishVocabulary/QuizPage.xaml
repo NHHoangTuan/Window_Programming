@@ -1,0 +1,40 @@
+﻿<Page x:Class="EnglishVocabulary.QuizPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EnglishVocabulary"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="QuizPage"
+      Background="White">
+
+    <Canvas x:Name="myCanvas">
+        <Button Name="btnNext" Content="Next" Canvas.Left="367" Canvas.Top="202" 
+                Height="37" Width="66"
+                Click="btnNext_Click"/>
+
+        <Button Name="btnResult" Content="Result" Canvas.Left="367" Canvas.Top="150" 
+        Height="37" Width="66"
+        Click="btnResult_Click" Visibility="Collapsed"/>
+
+        <Image x:Name="image2" Source="Images/Design/word02.jpg" 
+               Canvas.Top="80" Canvas.Left="465" Height="162" Width="186"/>
+
+        <Image x:Name="image1" Source="Images/Design/word01.jpg" 
+               Canvas.Left="141" Canvas.Top="80" Height="162" Width="186"/>
+
+        <TextBlock x:Name="testWord" Canvas.Left="289" TextWrapping="WrapWithOverflow" Text="Duck (n)" Canvas.Top="299"
+                   FontSize="20" TextAlignment="Center" Width="222" Height="29" HorizontalAlignment="Center" VerticalAlignment="Top" 
+                   FontWeight="Bold" Foreground="Red"/>
+
+        <RadioButton x:Name="cbImg1" Content="Image 1" Canvas.Left="200" Canvas.Top="272" FontWeight="Bold" 
+                Height="42" Width="68" HorizontalAlignment="Left" VerticalAlignment="Center"
+                Checked="Answer" Tag="0"/>
+
+        <RadioButton x:Name="cbImg2" Content="Image 2" Canvas.Left="524" Canvas.Top="273" FontWeight="Bold"
+                 Height="42" Width="68" HorizontalAlignment="Left" VerticalAlignment="Center"
+                Checked="Answer" Tag="0"/>
+
+    </Canvas>
+</Page>

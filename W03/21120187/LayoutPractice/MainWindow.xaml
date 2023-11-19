@@ -1,0 +1,19 @@
+﻿<Window x:Class="LayoutPractice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LayoutPractice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center">
+
+            <Button x:Name="btn1" Content="Giao dien 1" Click="btn1_Click" FontSize="50" Margin="10"/>
+            <Button x:Name="btn2" Content="Giao dien 2" Click="btn2_Click" FontSize="50" Margin="10"/>
+            <Button x:Name="btn3" Content="Giao dien 3" Click="btn3_Click" FontSize="50" Margin="10"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>
