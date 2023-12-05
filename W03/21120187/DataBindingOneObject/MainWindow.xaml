@@ -1,0 +1,20 @@
+﻿<Window x:Class="DataBindingOneObject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBindingOneObject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <StackPanel VerticalAlignment="Center">
+
+            <Button x:Name="btnBook" Content="Book" FontSize="50" Margin="10" Click="btnBook_Click"/>
+            <Button x:Name="btnMobilePhone" Content="Mobile Phone" FontSize="50" Margin="10" Click="btnMobilePhone_Click"/>
+            <Button x:Name="btnEmployee" Content="Employee" FontSize="50" Margin="10" Click="btnEmployee_Click"/>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

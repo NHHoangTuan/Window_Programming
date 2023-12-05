@@ -1,0 +1,42 @@
+﻿<Window x:Class="DataBindingOneObject.EmployeeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBindingOneObject"
+        mc:Ignorable="d"
+        Title="EmployeeWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+
+        <local:RelativeToAbsoluteConverter x:Key="pathConverter"/>
+
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+
+            <Image Source="{Binding Avatar, Converter={StaticResource pathConverter}}" Height="200"/>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Label Content="Fullname: "  FontSize="20" FontWeight="Bold"/>
+                <Label Content="{Binding FullName}" x:Name="nameLabel" FontSize="20"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Label Content="Email: "  FontSize="20" FontWeight="Bold"/>
+                <Label Content="{Binding Email}" x:Name="emailLabel" FontSize="20"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Label Content="Address: "  FontSize="20" FontWeight="Bold"/>
+                <Label Content="{Binding Address}" x:Name="addressLabel" FontSize="20"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <Label Content="Telephone Number: "  FontSize="20" FontWeight="Bold"/>
+                <Label Content="{Binding TelephoneNumber}" x:Name="telephoneNumberLabel" FontSize="20"/>
+            </StackPanel>
+
+
+        </StackPanel>
+    </Grid>
+</Window>

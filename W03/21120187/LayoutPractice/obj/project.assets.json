@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\HCMUS\\Kì 5\\Window\\W03\\21120187\\LayoutPractice\\LayoutPractice.csproj",
+      "projectUniqueName": "D:\\IT\\Github\\Window_Programming\\W03\\21120187\\LayoutPractice\\LayoutPractice.csproj",
       "projectName": "LayoutPractice",
-      "projectPath": "D:\\Study\\HCMUS\\Kì 5\\Window\\W03\\21120187\\LayoutPractice\\LayoutPractice.csproj",
+      "projectPath": "D:\\IT\\Github\\Window_Programming\\W03\\21120187\\LayoutPractice\\LayoutPractice.csproj",
       "packagesPath": "C:\\Users\\Hoang Tuan\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\HCMUS\\Kì 5\\Window\\W03\\21120187\\LayoutPractice\\obj\\",
+      "outputPath": "D:\\IT\\Github\\Window_Programming\\W03\\21120187\\LayoutPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hoang Tuan\\AppData\\Roaming\\NuGet\\NuGet.Config",

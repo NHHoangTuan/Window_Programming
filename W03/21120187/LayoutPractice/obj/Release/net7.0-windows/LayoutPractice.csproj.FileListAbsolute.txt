@@ -24,3 +24,29 @@ D:\Study\HCMUS\Kì 5\Window\W03\21120187\LayoutPractice\obj\Release\net7.0-windo
 D:\Study\HCMUS\Kì 5\Window\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window2.baml
 D:\Study\HCMUS\Kì 5\Window\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window3.g.cs
 D:\Study\HCMUS\Kì 5\Window\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window3.baml
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\bin\Release\net7.0-windows\LayoutPractice.exe
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\bin\Release\net7.0-windows\LayoutPractice.deps.json
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\bin\Release\net7.0-windows\LayoutPractice.runtimeconfig.json
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\bin\Release\net7.0-windows\LayoutPractice.dll
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\bin\Release\net7.0-windows\LayoutPractice.pdb
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\MainWindow.g.cs
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window1.g.cs
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window2.g.cs
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window3.g.cs
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\App.g.cs
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice_MarkupCompile.cache
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice_MarkupCompile.lref
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\MainWindow.baml
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window1.baml
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window2.baml
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\Window3.baml
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice.g.resources
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice.AssemblyInfoInputs.cache
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice.AssemblyInfo.cs
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice.csproj.CoreCompileInputs.cache
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice.dll
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\refint\LayoutPractice.dll
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice.pdb
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\LayoutPractice.genruntimeconfig.cache
+D:\IT\Github\Window_Programming\W03\21120187\LayoutPractice\obj\Release\net7.0-windows\ref\LayoutPractice.dll
