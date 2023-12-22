@@ -20,3 +20,25 @@ D:\Study\HCMUS\Kì 5\Window\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-wind
 D:\Study\HCMUS\Kì 5\Window\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\ref\EnglishVocabulary.dll
 D:\Study\HCMUS\Kì 5\Window\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.pdb
 D:\Study\HCMUS\Kì 5\Window\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.genruntimeconfig.cache
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\bin\Debug\net5.0-windows\EnglishVocabulary.exe
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\bin\Debug\net5.0-windows\EnglishVocabulary.deps.json
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\bin\Debug\net5.0-windows\EnglishVocabulary.runtimeconfig.json
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\bin\Debug\net5.0-windows\EnglishVocabulary.runtimeconfig.dev.json
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\bin\Debug\net5.0-windows\EnglishVocabulary.dll
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\bin\Debug\net5.0-windows\EnglishVocabulary.pdb
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.csproj.AssemblyReference.cache
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\App.g.cs
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary_MarkupCompile.cache
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary_MarkupCompile.lref
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\MainWindow.baml
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.g.resources
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.AssemblyInfoInputs.cache
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.AssemblyInfo.cs
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.csproj.CoreCompileInputs.cache
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.dll
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\refint\EnglishVocabulary.dll
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.pdb
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\EnglishVocabulary.genruntimeconfig.cache
+D:\IT\Github\Window_Programming\W01\21120187\EnglishVocabulary\obj\Debug\net5.0-windows\ref\EnglishVocabulary.dll

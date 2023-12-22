@@ -77,7 +77,7 @@ namespace DataBindingOneObject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/DataBindingOneObject;V1.0.0.0;component/mobilephonewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/DataBindingOneObject;component/mobilephonewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MobilePhoneWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
