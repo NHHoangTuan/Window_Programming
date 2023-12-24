@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 D:\IT\Github\Window_Programming\W03\21120187\DataBindingOneObject\App.xaml
-11407045341
+41527107571
 
-51981427316
+12-2119738042
 198-759771931
-MainWindow.xaml;
+BookWindow.xaml;EmployeeWindow.xaml;MainWindow.xaml;MobilePhoneWindow.xaml;
 
 True
 

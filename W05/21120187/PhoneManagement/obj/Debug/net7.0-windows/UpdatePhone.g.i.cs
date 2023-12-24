@@ -104,7 +104,7 @@ namespace PhoneManagement {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PhoneManagement;component/updatephone.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PhoneManagement;V1.0.0.0;component/updatephone.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\UpdatePhone.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
